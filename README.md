@@ -1,5 +1,8 @@
 # FACE RECOGNITION USING OPENCV
 
->  Uses Opencv cv2 version "3.2.0",
->  clone repo and
->  simply run $python3 face-recog.py.
+>  dependencies Opencv cv2 version "3.2.0", <br>
+>  clone repo and <br>
+>  simply run <br>
+```bash
+$ python3 face-recog.py.
+```
